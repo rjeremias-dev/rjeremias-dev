@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Alexandre!
 ## About Me
 <p align="justify">
-I am a <strong>22-year-old Full-Stack Web-Developer in training</strong>, specializing in <strong>Java</strong> and <strong>Spring</strong> for backend development, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Node.js</strong> for frontend development, and <strong>PostgreSQL</strong> for database management. I am open to learn something new every day and overcame possible challenges.
+I am a <strong>22-year-old Full-Stack Web-Developer in training</strong>, specializing in <strong>Java</strong> and <strong>Spring</strong> for backend development, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Node.js</strong> for frontend development, and <strong>PostgreSQL</strong> for database management. I am open to learn something new every day and to overcame challenges.
 </p>
 
 ## 🌐 Socials
