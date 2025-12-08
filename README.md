@@ -3,7 +3,7 @@ I am a 22 years old training in full-stack development, with Java and Spring fra
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jeremias/)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jeremias/)
 
 # 💻 Tech Stack:
 ## Programming Languages
