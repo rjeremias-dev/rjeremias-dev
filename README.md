@@ -1,6 +1,7 @@
 # 💫 About Me
+<p align="justify">
 I am a 22-year-old Full-Stack Developer in training, specializing in Java and Spring for backend development, HTML, CSS, JavaScript, and Node.js for frontend development, and PostgreSQL for database management. I enjoy building scalable and maintainable applications using modern technologies and best practices.
-
+</p>
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jeremias/)
