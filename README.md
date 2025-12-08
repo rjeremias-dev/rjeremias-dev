@@ -1,6 +1,6 @@
 # 💫 About Me
 <p align="justify">
-I am a <strong>22-year-old Full-Stack Developer in training</strong>, specializing in Java and Spring for backend development, HTML, CSS, JavaScript, and Node.js for frontend development, and PostgreSQL for database management. I enjoy building scalable and maintainable applications using modern technologies and best practices.
+I am a <strong>22-year-old Full-Stack Developer in training</strong>, specializing in <strong>Java</strong> and <strong>Spring</strong> for backend development, <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong>, and <strong>Node.js</strong> for frontend development, and <strong>PostgreSQL</strong> for database management. I enjoy building scalable and maintainable applications using modern technologies and best practices.
 </p>
 
 ## 🌐 Socials
