@@ -1,5 +1,5 @@
 # 💫 About Me:
-Training in full-stack development with Java & Spring for backend and HTML, CSS, JavaScript, and PostgreSQL for frontend and database work.
+I am a 22 years old training in full-stack development, with Java & Spring for backend, HTML, CSS, JavaScript for frontend and PostgreSQL for database work.
 
 
 ## 🌐 Socials:
