@@ -1,11 +1,11 @@
-# 💫 About Me:
-I am a 22 years old training in full-stack development, with Java and Spring framework for backend, HTML, CSS and JavaScript with Node.js framework for frontend and PostgreSQL for database work.
+# 💫 About Me
+I am a 22-year-old Full-Stack Developer in training, specializing in Java and Spring for backend development, HTML, CSS, JavaScript, and Node.js for frontend development, and PostgreSQL for database management. I enjoy building scalable and maintainable applications using modern technologies and best practices.
 
 
-## 🌐 Socials:
-![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)(https://www.linkedin.com/in/rodrigo-jeremias/)
+## 🌐 Socials
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rodrigo-jeremias/)
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ## Programming Languages
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 
