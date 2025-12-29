@@ -47,11 +47,6 @@ I am a <strong>22-year-old Full-Stack Web-Developer in training</strong>, specia
 ## IDEs / Code Editors
  ![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)  -->
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rjeremias-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rjeremias-dev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rjeremias-dev&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- 
